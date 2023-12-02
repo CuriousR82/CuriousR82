@@ -1,9 +1,5 @@
-Hi! I am Rosa Jeon, a 2nd year CS student at the University of Waterloo.
-I have a strong base in art, so I have been applying my art skills into my projects 🙈
-Curious of how I have been doing that?
-You can check out my past projects 🤩
+## Hey there! 👋🏼
+I'm Rosa Jeon, a second-year Computer Science student at the University of Waterloo. 
+I bring a unique blend of technical prowess and artistic flair to my projects, thanks to my strong foundation in art. 🎨✨
 
-
-Currently looking at automated websites 🙈
-</br></br>
-Checkout my latest project [AutonotionR](https://github.com/CuriousR82/AutonotionR) :gear:
+Curious about how art and code come together? Take a dive into my past projects to witness the fusion of creativity and technology. 🚀
