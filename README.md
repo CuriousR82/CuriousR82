@@ -1,4 +1,5 @@
 Currently looking at automated websites 🙈
+Checkout my latest project [AutonotionR](https://github.com/CuriousR82/AutonotionR)
 
 <!--
 **CuriousR82/CuriousR82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
